@@ -1,0 +1,30 @@
+# Environment variables (API keys, passwords)
+.env
+
+# Python virtual environment
+.venv/
+venv/
+env/
+
+# Byte-compiled / cached files
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Large pickle/model files (optional — uncomment if you don't want them in git)
+# *.pkl
+
+# OS generated files
+Thumbs.db
+.DS_Store
+
+# IDE / Editor settings
+.vscode/
+.idea/
+*.swp
+*.swo
+
